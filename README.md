@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aashy135
+- 👋 Hi, I’m ASHIF
 - 👀 I’m interested in Android and Python Development
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on git buddies
